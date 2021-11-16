@@ -1,5 +1,5 @@
 article {
-  background-color: brown; 
+  background-color: yellow; 
   text-color: blue; 
   font-family: montserrat;
 } 
@@ -9,4 +9,4 @@ h1 {
 }
 p2 {
   text-color: green; 
-  font-size: 15em;}
+  font-size: 5em;}
