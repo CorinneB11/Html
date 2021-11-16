@@ -1,15 +1,18 @@
 article {
   background-color: yellow; 
-  text-color: blue; 
+  color: blue; 
   font-family: times new roman;
 } 
 h1 {
-  text-color: white; 
+  color: white; 
   text-align: center;
 }
 p2 {
-  text-color: green; 
+  color: green; 
   }
-header a{color: red;}
+header a{color: indigo;}
 footer a{color:green;}
-nav a{color: indigo;}
+nav a{color: red;}
+.para {font-size: 12px;}
+.brd{margin: 20px}
+.link1{color: green;}
