@@ -41,5 +41,5 @@ font-family: 'Comforter', cursive;}
 }
 
 div{width: 30%;
-  position: fixed;
+  position: relative;
   float:top right;}
