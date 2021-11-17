@@ -34,4 +34,4 @@ nav {color: red;
   padding: 5px;
   margin-top: 5px;
 margin-left: 0px;}
-hr {color: red; width: 15px; solid:5px;}
+hr {color: red; width: 100%; dotted:5px;}
