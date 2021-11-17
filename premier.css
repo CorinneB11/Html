@@ -28,8 +28,7 @@ hr {border: 1px dashed red;}
 
 h2 {
   color: black;
-  font-family: arial;
-  font-size: 15px;
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
 }
 .img1 {
    width: 350px;
