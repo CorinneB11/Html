@@ -26,11 +26,11 @@ margin-left: 0px;}
 hr {border: 1px dashed red;}
 
 
-h2 {
+h2 a{
   color: black;
 font-family: Comforter;
-  font-size: 24;
-
+  font-size: 24;}
+.img1{
    width: 350px;
    height: 200px;
    border: 1px solid black;
