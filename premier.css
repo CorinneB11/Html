@@ -25,12 +25,12 @@ nav {color: red;
 margin-left: 0px;}
 hr {border: 1px dashed red;}
 
-
 h2 {
   color: black;
-@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
- font-size: 24;}
-.img1{
+ font-size: 24;
+font-family: 'Comforter', cursive;}
+
+.img1 {
    width: 350px;
    height: 200px;
    border: 1px solid black;
