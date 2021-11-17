@@ -19,7 +19,7 @@ a {text-decoration: none;}
 
 header a{color: white;}
 header{background-color: black; padding: 20px;}
-footer{background-color: black; padding: 20px;}
+footer{color: white; background-color: black; padding: 20px;}
 footer a{color:white;}
 article{font-family: times new roman;
   display: block;
