@@ -1,15 +1,4 @@
-
-  
- 
-h1 {
-  color: white; 
-  text-align: center;
-}
-p2 {
-  color: green; 
-  }
-
-
+p2{
 margin-left:20px;}
 #mrg{margin-left:30px;}
 
@@ -35,3 +24,10 @@ nav {color: red;
   margin-top: 5px;
 margin-left: 0px;}
 hr {color: red; width: 100%; dotted:5px;}
+
+
+h2 {
+  color: black;
+  font-family: arial;
+  font-size: 15px;
+}
