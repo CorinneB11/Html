@@ -1,7 +1,5 @@
-article {
-  background-color: yellow; 
-  color: blue; 
-  font-family: times new roman;
+
+  
 } 
 h1 {
   color: white; 
@@ -23,7 +21,8 @@ header a{color: white;}
 header{background-color: black; border:5px collapse; padding: 20px;}
 footer{background-color: black; border:5px collapse; padding: 20px;}
 footer a{color:white;}
-article{display: block;
+article{font-family: times new roman;
+  display: block;
 } 
 section {margin-left: auto;
   margin-right: auto}
