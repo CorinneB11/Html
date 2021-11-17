@@ -10,7 +10,8 @@ header a{color: white;}
 header{background-color: black; padding: 20px;}
 footer{color: white; background-color: black; padding: 20px;}
 footer a{color:white;}
-article{font-family: times new roman;
+article{
+  font-family: times new roman;
   display: block;
 } 
 section {margin-left: auto;
@@ -30,9 +31,15 @@ h2 {
  font-size: 24;
 font-family: 'Comforter', cursive;}
 
+
+
+.art1{text-align: justify;
 .img1 {
    width: 350px;
    height: 200px;
    border: 1px solid black;
-   object-position: top right;
+   float: right;
+  margin-left: 20px;
 }
+
+
