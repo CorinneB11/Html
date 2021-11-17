@@ -23,5 +23,5 @@ a {text-decoration: none;}
 header{background-color: black; padding: 20px;}
 footer{background-color: black; padding: 20px;}
 footer a{color:white;}
-section{display-inside: block; 50%;
+.box{display-inside: block; 50%;
   text-align: center;} 
