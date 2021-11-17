@@ -11,7 +11,9 @@ p2 {
   color: green; 
   }
 header a{color: indigo;}
-footer a{color:green;}
+footer a{color:green;
+margin-left:20px;}
+#mrg{margin-left:30px;}
 nav a{color: red;}
 .para {font-size: 12px;}
 .brd{margin-bottom: 20px;}
