@@ -27,3 +27,5 @@ article{font-family: times new roman;
 section {margin-left: auto;
   margin-right: auto;
 width: 50%;}
+
+nav{background-color: grey; width: 500px; position: fixed; right: 40px;}
