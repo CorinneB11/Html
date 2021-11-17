@@ -41,4 +41,5 @@ font-family: 'Comforter', cursive;}
 }
 
 div{width: 30%;
-  position:top right;}
+  position: fixed;
+  float:top right;}
