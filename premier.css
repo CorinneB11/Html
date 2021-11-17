@@ -18,8 +18,8 @@ nav a{color: red;}
 a {text-decoration: none;}
 
 header a{color: white;}
-header{background-color: black; border:50px collapse; width: 10px; padding: 20px;}
-footer{background-color: black; border:50px collapse; width: 10px; padding: 20px;}
+header{background-color: black; padding: 20px;}
+footer{background-color: black; padding: 20px;}
 footer a{color:white;}
 article{font-family: times new roman;
   display: block;
